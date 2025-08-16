@@ -44,7 +44,6 @@ replicationcli/
 │   ├── gemini/
 │   ├── local/
 │   └── openrouter/
-│       ├── grok-3-mini/
 │       ├── llama-3.1-70b/
 │       └── phi-4-reasoning-plus/
 ├── logs/                      # Detailed API call logs with timestamps

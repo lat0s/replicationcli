@@ -1,0 +1,28 @@
+{
+  "name": "replicationcli",
+  "version": "1.0.0",
+  "description": "A CLI tool for codebase analysis and file management",
+  "main": "index.js",
+  "bin": {
+    "replication": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "codebase",
+    "analysis",
+    "file-management",
+    "javascript",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "dotenv": "^17.2.1"
+  }
+}
